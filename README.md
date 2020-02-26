@@ -1,1 +1,1 @@
-![](https://github.com/FlorianMarcon/WorkshopGithubActions/workflows/Node.js%20CI/badge.svg)
+![](https://github.com/FlorianMarcon/WorkshopGithubActions/workflows/Jest%20Testing/badge.svg)
